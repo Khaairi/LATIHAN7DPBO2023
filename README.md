@@ -13,6 +13,8 @@ Modifikasi kode yang ada. Ketika pencet WASD, skor masih jadi 1 2 3 4 secara har
 * Terdapat object lain yaitu `Obstacle`, berbentuk kotak, yang dapat didekati oleh object `Player` dan jika object bersentuhan (posisinya sama) maka object `Obstacle` akan hilang dan berpindah secara random di bidang layar dan juga catch akan bertambah 1
 
 ## Dokumentasi
+![2023-04-21 21-34-45 (online-video-cutter com)](https://user-images.githubusercontent.com/100757455/233665571-f0f9c3f8-6585-4850-a8b7-4df8575a3c21.gif)
+
 Kondisi awal saat program dijalankan
 
 ![Screenshot (292)](https://user-images.githubusercontent.com/100757455/232993887-505a6d26-d4fc-48bb-a414-73586108bbda.png)
